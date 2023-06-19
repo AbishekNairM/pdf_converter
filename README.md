@@ -14,5 +14,7 @@ for image extraction i used: https://nanonets.com/blog/how-to-extract-data-from-
 i used chatgpt to make the django form of the above code from the site and played around with it.
 since i had almost zero experience with github i used: chatgpt(obviously) and https://www.jcchouinard.com/create-your-first-github-project-in-vscode/#How_to_Publish_to_Github_from_VSCode to push the folder
 
+Challenges i faced: i first tried reading with NER, i got nothing. I tried manya arbritary methods chatgpt came and could get only get header values. Then i searched for the implementation mentioned and came across pytesseract. Seemingly it used OCR and i was still unable to read anything probably cause my code was imperfect. Then i asked a doubt to the examiner and He told me that OCR will be used. when i used the sites code, i was able too read a majority of the words in the image. I tried using preprocessing but it read even less but showed values that weren't marked before. So i tried merging it and read more values but extraction was still difficult. In the end i found a similar implementation and used it as a base and used chatgpt to code it.  
+
 I am a fresher that was effected by the covid the most and, a 2022 passout from a normal college(couldnt afford to go to autonomous unis), i aspire to be a software engineer and am willing to learn under anybody to become a full time software engineer.
 so if u have any suggestions, links, job oppurtunities, anything please do contact my mail: abisheknair.m1999@gmail.com
